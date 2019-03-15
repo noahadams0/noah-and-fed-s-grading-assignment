@@ -46,7 +46,3 @@ uint8_t thisdelay = 5;                                        // We don't need m
         thishue = thishue + thisinc;                                // It increments here.
      }// confetti()   
   }   
-
-
-
- 
